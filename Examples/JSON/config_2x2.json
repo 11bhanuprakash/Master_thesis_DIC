@@ -1,0 +1,8 @@
+{
+  "base_folder": "C:/Users/konat/Desktop/Thesis/Digtal Image Correlation/muDIC-master/Master_thesis/Examples/set2/aligned",
+  "has_reference_markers": true,
+  "roi_shape": "C",
+  "normalize_histogram": true,
+  "n_ely": 2,
+  "n_elx": 2
+}

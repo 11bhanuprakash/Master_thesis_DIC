@@ -1,0 +1,8 @@
+{
+  "base_folder": "C:/Users/konat/Desktop/Thesis/#Resources/no_grayscale_shifts/no_grayscale_shifts",
+  "has_reference_markers": false,
+  "roi_shape": "R",
+  "normalize_histogram": false,
+  "n_ely": 6,
+  "n_elx": 4
+}
